@@ -1,3 +1,3 @@
 # javascript-basic-clock
 
-<a link ="clock.png">
+<img src = "clock.png">
